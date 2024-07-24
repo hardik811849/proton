@@ -14,13 +14,13 @@ export default function Home() {
     <>
       <Hero />
       <Calculate />
-      {/* <AboutSection /> */}
-      {/* <KeyFeatures /> */}
-      {/* <OurProperties /> */}
-      {/* <Benifit /> */}
-      {/* <Roadmap /> */}
-      {/* <Partner /> */}
-      {/* <Testimonials /> */}
+      <AboutSection />
+      <KeyFeatures />
+      <OurProperties />
+      <Benifit />
+      <Roadmap />
+      <Partner />
+      <Testimonials />
     </>
   );
 }
